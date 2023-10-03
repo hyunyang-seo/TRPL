@@ -1,3 +1,3 @@
-# TRPL 
+# TRPL
 
 The Rust Programming Language
