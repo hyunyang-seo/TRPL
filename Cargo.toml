@@ -4,4 +4,5 @@ resolver = "2"
 
 members = [
     "ch01-02",
+    "ch01-03",
 ]
