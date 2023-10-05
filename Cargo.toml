@@ -6,4 +6,10 @@ members = [
     "ch01-02",
     "ch01-03",
     "ch02-guessing_game",
+    "ch03-01",
+    "ch03-02",
+    "ch03-05-branches",
+    "ch03-05-loops",
+    "ch05-02-rectangles",
+    "ch05-03-rectangles",
 ]
