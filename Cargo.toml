@@ -12,4 +12,5 @@ members = [
     "ch03-05-loops",
     "ch05-02-rectangles",
     "ch05-03-rectangles",
+    "ch07-01-communicator",
 ]
